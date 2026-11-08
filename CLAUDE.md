@@ -56,4 +56,11 @@ Owners aren't technical. They keep their phone, their number, and how they answe
 Out of scope for now: AI receptionist, Jobber integration, payments, number porting.
 
 ## How to work with me
-I'm learning as I go. Explain key decisions in a sentence or two. Ask before adding any paid service or new dependency. Keep a README with setup steps: Twilio console config, ngrok, phone forwarding codes, and turning off Live Voicemail on iPhone for testing. Include the owner onboarding checklist and the one-page owner cheat sheet.
+I'm learning as I go and want to understand everything we build. Work in small steps:
+- Before each step, say what we're building and why.
+- Keep each step small enough that I can read all of it.
+- After each step, explain what the code does in plain words and show me how to run or see it working.
+- Pause for my questions before moving on.
+- Explain git commands and commits too, not just the code.
+
+Explain key decisions in a sentence or two. Ask before adding any paid service or new dependency. Keep a README with setup steps: Twilio console config, ngrok, phone forwarding codes, and turning off Live Voicemail on iPhone for testing. Include the owner onboarding checklist and the one-page owner cheat sheet.
